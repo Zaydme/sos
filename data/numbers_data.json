@@ -1,0 +1,1350 @@
+{
+  "AF": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "119" }],
+    "Dispatch": []
+  },
+  "AX": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "112" }]
+  },
+  "AL": {
+    "Ambulance": [{ "type": "All", "value": "127" }],
+    "Fire": [{ "type": "All", "value": "128" }],
+    "Police": [{ "type": "All", "value": "129" }],
+    "Dispatch": []
+  },
+  "DZ": {
+    "Ambulance": [{ "type": "All", "value": "21606666" }],
+    "Fire": [{ "type": "All", "value": "14" }],
+    "Police": [{ "type": "All", "value": "1548" }],
+    "Dispatch": [{ "type": "Fixed", "value": "19" }]
+  },
+  "AS": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "AD": {
+    "Ambulance": [
+      { "type": "All", "value": "118" },
+      { "type": "All", "value": "112" }
+    ],
+    "Fire": [
+      { "type": "All", "value": "118" },
+      { "type": "All", "value": "112" }
+    ],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "AO": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [{ "type": "All", "value": "118" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "AI": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "AQ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "AG": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": "911" }
+    ]
+  },
+  "AR": {
+    "Ambulance": [{ "type": "All", "value": "101" }],
+    "Fire": [{ "type": "All", "value": "107" }],
+    "Police": [{ "type": "All", "value": "101" }],
+    "Dispatch": []
+  },
+  "AM": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "102" }],
+    "Police": [{ "type": "All", "value": "101" }],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "AW": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "AU": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "Fixed", "value": "000" },
+      { "type": "GSM", "value": "112" }
+    ]
+  },
+  "AT": {
+    "Ambulance": [{ "type": "All", "value": "144" }],
+    "Fire": [{ "type": "All", "value": "133" }],
+    "Police": [{ "type": "All", "value": "133" }],
+    "Dispatch": []
+  },
+  "AZ": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "BS": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "BH": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "BD": {
+    "Ambulance": [{ "type": "All", "value": "199" }],
+    "Fire": [{ "type": "All", "value": "9555555" }],
+    "Police": [{ "type": "All", "value": "865513" }],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "BB": {
+    "Ambulance": [{ "type": "All", "value": "511" }],
+    "Fire": [{ "type": "All", "value": "311" }],
+    "Police": [{ "type": "All", "value": "211" }],
+    "Dispatch": []
+  },
+  "BY": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [
+      { "type": "All", "value": "101" },
+      { "type": "All", "value": "112" }
+    ],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "BE": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "BZ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "BJ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "BM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "BT": {
+    "Ambulance": [{ "type": "All", "value": "110" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "113" }],
+    "Dispatch": []
+  },
+  "BO": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "BQ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "BA": {
+    "Ambulance": [{ "type": "All", "value": "124" }],
+    "Fire": [{ "type": "All", "value": "123" }],
+    "Police": [{ "type": "All", "value": "122" }],
+    "Dispatch": []
+  },
+  "BW": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "997" },
+      { "type": "All", "value": " 911" }
+    ]
+  },
+  "BV": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "BR": {
+    "Ambulance": [{ "type": "All", "value": "192" }],
+    "Fire": [{ "type": "All", "value": "193" }],
+    "Police": [],
+    "Dispatch": []
+  },
+  "IO": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "BN": {
+    "Ambulance": [{ "type": "All", "value": "991" }],
+    "Fire": [{ "type": "All", "value": "995" }],
+    "Police": [{ "type": "All", "value": "993" }],
+    "Dispatch": []
+  },
+  "BG": {
+    "Ambulance": [{ "type": "All", "value": "150" }],
+    "Fire": [{ "type": "All", "value": "160" }],
+    "Police": [{ "type": "All", "value": "166" }],
+    "Dispatch": []
+  },
+  "BF": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "BI": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CV": {
+    "Ambulance": [{ "type": "All", "value": "130" }],
+    "Fire": [{ "type": "All", "value": "131" }],
+    "Police": [{ "type": "All", "value": "132" }],
+    "Dispatch": []
+  },
+  "KH": {
+    "Ambulance": [{ "type": "All", "value": "119" }],
+    "Fire": [{ "type": "All", "value": "118" }],
+    "Police": [{ "type": "All", "value": "117" }],
+    "Dispatch": []
+  },
+  "CM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CA": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "911" },
+      { "type": "GSM", "value": "112" }
+    ]
+  },
+  "KY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "CF": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "TD": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "CL": {
+    "Ambulance": [{ "type": "All", "value": "131" }],
+    "Fire": [{ "type": "All", "value": "132" }],
+    "Police": [{ "type": "All", "value": "133" }],
+    "Dispatch": []
+  },
+  "CN": {
+    "Ambulance": [{ "type": "All", "value": "120" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Traffic": [{ "type": "All", "value": "122" }],
+    "Dispatch": []
+  },
+  "CX": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CC": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CO": {
+    "Ambulance": [{ "type": "All", "value": "125" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": [{ "type": "All", "value": "123" }]
+  },
+  "KM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CG": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CD": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "CK": {
+    "Ambulance": [{ "type": "All", "value": "998" }],
+    "Fire": [{ "type": "All", "value": "996" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "CR": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "CI": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "180" }],
+    "Police": [
+      { "type": "All", "value": "110" },
+      { "type": "All", "value": "111" },
+      { "type": "All", "value": "170" }
+    ],
+    "Dispatch": []
+  },
+  "HR": {
+    "Ambulance": [{ "type": "All", "value": "194" }],
+    "Fire": [{ "type": "All", "value": "193" }],
+    "Police": [{ "type": "All", "value": "192" }],
+    "Dispatch": []
+  },
+  "CU": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "26811" }]
+  },
+  "CW": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "114" }],
+    "Police": [{ "type": "All", "value": "444444" }],
+    "Dispatch": []
+  },
+  "CY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "199" }]
+  },
+  "CZ": {
+    "Ambulance": [{ "type": "All", "value": "155" }],
+    "Fire": [{ "type": "All", "value": "150" }],
+    "Police": [{ "type": "All", "value": "158" }],
+    "Dispatch": []
+  },
+  "DK": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "114" }],
+    "Dispatch": []
+  },
+  "DJ": {
+    "Ambulance": [{ "type": "All", "value": "351351" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "DM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "DO": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "EC": {
+    "Ambulance": [{ "type": "All", "value": "131" }],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "101" }],
+    "Dispatch": []
+  },
+  "EG": {
+    "Ambulance": [{ "type": "All", "value": "123" }],
+    "Fire": [{ "type": "All", "value": "180" }],
+    "Police": [{ "type": "All", "value": "122" }],
+    "Dispatch": []
+  },
+  "SV": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "GQ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "ER": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "EE": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "ET": {
+    "Ambulance": [{ "type": "All", "value": "92" }],
+    "Fire": [{ "type": "All", "value": "93" }],
+    "Police": [{ "type": "All", "value": "91" }],
+    "Dispatch": []
+  },
+  "FK": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "FO": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "FJ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "FI": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "FR": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "GF": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": [{ "type": "All", "value": "112" }]
+  },
+  "PF": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "TF": {
+    "Ambulance": [{ "type": "All", "value": "No Permanent Population" }],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "GA": {
+    "Ambulance": [{ "type": "All", "value": "1300‐1399" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "1730" }],
+    "Dispatch": []
+  },
+  "GM": {
+    "Ambulance": [{ "type": "All", "value": "16" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "GE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "DE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "GH": {
+    "Ambulance": [{ "type": "All", "value": "776111-5" }],
+    "Fire": [{ "type": "All", "value": "192" }],
+    "Police": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": "171" }
+    ],
+    "Dispatch": []
+  },
+  "GI": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "190" }],
+    "Police": [{ "type": "All", "value": "199" }],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "GR": {
+    "Ambulance": [{ "type": "All", "value": "166" }],
+    "Fire": [{ "type": "All", "value": "199" }],
+    "Police": [{ "type": "All", "value": "100" }],
+    "Dispatch": []
+  },
+  "GL": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "GD": {
+    "Ambulance": [{ "type": "All", "value": "434" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "911" }],
+    "Dispatch": []
+  },
+  "GP": {
+    "Ambulance": [{ "type": "All", "value": "18" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "GU": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "GT": {
+    "Ambulance": [{ "type": "All", "value": "123" }],
+    "Fire": [{ "type": "All", "value": "123" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "GG": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "GN": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "GW": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "GY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "HT": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "114" }],
+    "Dispatch": []
+  },
+  "HM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "VA": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [{ "type": "All", "value": "115" }],
+    "Police": [{ "type": "All", "value": "113" }],
+    "Dispatch": []
+  },
+  "HN": {
+    "Ambulance": [
+      { "type": "All", "value": "195" },
+      { "type": "All", "value": " 37 8654" }
+    ],
+    "Fire": [{ "type": "All", "value": "198" }],
+    "Police": [{ "type": "All", "value": "119" }],
+    "Dispatch": []
+  },
+  "HK": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "GSM", "value": "112" }
+    ]
+  },
+  "HU": {
+    "Ambulance": [{ "type": "All", "value": "104" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "107" }],
+    "Dispatch": []
+  },
+  "IS": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "IN": {
+    "Ambulance": [{ "type": "All", "value": "102" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "101" }],
+    "Traffic": [{ "type": "All", "value": "103" }],
+    "Dispatch": []
+  },
+  "ID": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [{ "type": "All", "value": "113" }],
+    "Police": [
+      { "type": "All", "value": "110" },
+      { "type": "GSM", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "IR": {
+    "Ambulance": [{ "type": "All", "value": "115" }],
+    "Fire": [{ "type": "All", "value": "123" }],
+    "Police": [
+      { "type": "All", "value": "110" },
+      { "type": "GSM", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "IQ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "IE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "IM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "IL": {
+    "Ambulance": [{ "type": "All", "value": "101" }],
+    "Fire": [{ "type": "All", "value": "102" }],
+    "Police": [{ "type": "All", "value": "100" }],
+    "Dispatch": []
+  },
+  "IT": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [{ "type": "All", "value": "115" }],
+    "Police": [{ "type": "All", "value": "113" }],
+    "Dispatch": []
+  },
+  "JM": {
+    "Ambulance": [{ "type": "All", "value": "110" }],
+    "Fire": [{ "type": "All", "value": "110" }],
+    "Police": [{ "type": "All", "value": "119" }],
+    "Dispatch": []
+  },
+  "JP": {
+    "Ambulance": [{ "type": "All", "value": "119" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "JE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "JO": {
+    "Ambulance": [{ "type": "All", "value": "199" }],
+    "Fire": [{ "type": "All", "value": "199" }],
+    "Police": [{ "type": "All", "value": "191" }],
+    "Traffic": [{ "type": "All", "value": "190" }],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "KZ": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "KE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "KI": {
+    "Ambulance": [{ "type": "All", "value": "994" }],
+    "Fire": [{ "type": "All", "value": "993" }],
+    "Police": [{ "type": "All", "value": "992" }],
+    "Dispatch": []
+  },
+  "KP": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "KR": {
+    "Ambulance": [{ "type": "All", "value": "119" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "KW": {
+    "Ambulance": [{ "type": "All", "value": "777" }],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "KG": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "103" }]
+  },
+  "LA": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "LV": {
+    "Ambulance": [{ "type": "All", "value": "113" }],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "LB": {
+    "Ambulance": [{ "type": "All", "value": "113" }],
+    "Fire": [],
+    "Police": [
+      { "type": "All", "value": "110" },
+      { "type": "All", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "LS": {
+    "Ambulance": [{ "type": "All", "value": "121" }],
+    "Fire": [{ "type": "All", "value": "122" }],
+    "Police": [
+      { "type": "All", "value": "123" },
+      { "type": "All", "value": " 124" }
+    ],
+    "Dispatch": []
+  },
+  "LR": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "GSM", "value": "911" }]
+  },
+  "LY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "193" }]
+  },
+  "LI": {
+    "Ambulance": [{ "type": "All", "value": "144" }],
+    "Fire": [{ "type": "All", "value": "118" }],
+    "Police": [
+      { "type": "All", "value": "112" },
+      { "type": "All", "value": "117" }
+    ],
+    "Dispatch": []
+  },
+  "LT": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "LU": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "113" }],
+    "Dispatch": []
+  },
+  "MO": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "MK": {
+    "Ambulance": [{ "type": "All", "value": "194" }],
+    "Fire": [{ "type": "All", "value": "193" }],
+    "Police": [{ "type": "All", "value": "192" }],
+    "Dispatch": []
+  },
+  "MG": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "MW": {
+    "Ambulance": [{ "type": "All", "value": "998" }],
+    "Fire": [{ "type": "All", "value": "999" }],
+    "Police": [{ "type": "All", "value": "997" }],
+    "Dispatch": []
+  },
+  "MY": {
+    "Ambulance": [
+      { "type": "All", "value": "999" },
+      { "type": "GSM", "value": "112" }
+    ],
+    "Fire": [{ "type": "All", "value": "994" }],
+    "Police": [
+      { "type": "All", "value": "999" },
+      { "type": "GSM", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "MV": {
+    "Ambulance": [{ "type": "All", "value": "102" }],
+    "Fire": [{ "type": "All", "value": "999" }],
+    "Police": [{ "type": "All", "value": "119" }],
+    "Dispatch": []
+  },
+  "ML": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "17" }],
+    "Police": [{ "type": "All", "value": "18" }],
+    "Dispatch": []
+  },
+  "MT": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "MH": {
+    "Ambulance": [{ "type": "All", "value": "625 4111" }],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "625 8666" }],
+    "Dispatch": []
+  },
+  "MQ": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "MR": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "118" }],
+    "Police": [{ "type": "All", "value": "117" }],
+    "Dispatch": []
+  },
+  "MU": {
+    "Ambulance": [{ "type": "All", "value": "114" }],
+    "Fire": [{ "type": "All", "value": "115" }],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "YT": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "MX": {
+    "Ambulance": [{ "type": "All", "value": "065" }],
+    "Fire": [{ "type": "All", "value": "068" }],
+    "Police": [{ "type": "All", "value": "060" }],
+    "Dispatch": []
+  },
+  "FM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "MD": {
+    "Ambulance": [{ "type": "All", "value": "903" }],
+    "Fire": [{ "type": "All", "value": "901" }],
+    "Police": [
+      { "type": "All", "value": "902" },
+      { "type": "GSM", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "MC": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "MN": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "ME": {
+    "Ambulance": [{ "type": "All", "value": "124" }],
+    "Fire": [{ "type": "All", "value": "123" }],
+    "Police": [{ "type": "All", "value": "122" }],
+    "Dispatch": []
+  },
+  "MS": {
+    "Ambulance": [{ "type": "All", "value": "911" }],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "MA": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "15" }],
+    "Police": [{ "type": "All", "value": "19" }],
+    "Dispatch": []
+  },
+  "MZ": {
+    "Ambulance": [{ "type": "All", "value": "117" }],
+    "Fire": [{ "type": "All", "value": "198" }],
+    "Police": [{ "type": "All", "value": "119" }],
+    "Dispatch": []
+  },
+  "MM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "NA": {
+    "Ambulance": [{ "type": "All", "value": "2032276" }],
+    "Fire": [{ "type": "All", "value": "2032270" }],
+    "Police": [{ "type": "All", "value": "10 111" }],
+    "Dispatch": []
+  },
+  "NR": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "NP": {
+    "Ambulance": [{ "type": "All", "value": "102" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [
+      { "type": "All", "value": "110" },
+      { "type": "All", "value": "112" }
+    ],
+    "Dispatch": []
+  },
+  "NL": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "NC": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "NZ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "111" }]
+  },
+  "NI": {
+    "Ambulance": [{ "type": "All", "value": "128" }],
+    "Fire": [
+      { "type": "All", "value": "115" },
+      { "type": "All", "value": "911" }
+    ],
+    "Police": [{ "type": "All", "value": "118" }],
+    "Dispatch": []
+  },
+  "NE": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "NG": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "NU": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "NF": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "MP": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "NO": {
+    "Ambulance": [{ "type": "All", "value": "113" }],
+    "Fire": [{ "type": "All", "value": "110" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "OM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "PK": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "15" }]
+  },
+  "PW": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "PS": {
+    "Ambulance": [{ "type": "All", "value": "101" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "100" }],
+    "Dispatch": []
+  },
+  "PA": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "103" }],
+    "Police": [{ "type": "All", "value": "104" }],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "PG": {
+    "Ambulance": [],
+    "Fire": [{ "type": "All", "value": "110" }],
+    "Police": [{ "type": "All", "value": "000" }],
+    "Dispatch": []
+  },
+  "PY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "00" }]
+  },
+  "PE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "011" },
+      { "type": "All", "value": " 5114" }
+    ]
+  },
+  "PH": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "116" },
+      { "type": "All", "value": "117" }
+    ]
+  },
+  "PN": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "PL": {
+    "Ambulance": [{ "type": "All", "value": "999" }],
+    "Fire": [{ "type": "All", "value": "998" }],
+    "Police": [{ "type": "All", "value": "997" }],
+    "Dispatch": []
+  },
+  "PT": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "PR": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "QA": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "RE": {
+    "Ambulance": [
+      { "type": "All", "value": "112" },
+      { "type": "All", "value": "15" }
+    ],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "RO": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "RU": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "RW": {
+    "Ambulance": [{ "type": "All", "value": "912" }],
+    "Fire": [{ "type": "All", "value": "112" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "BL": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SH": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "KN": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "LC": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": "911" }
+    ]
+  },
+  "MF": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "PM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "VC": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": "911" }
+    ]
+  },
+  "WS": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "SM": {
+    "Ambulance": [{ "type": "All", "value": "118" }],
+    "Fire": [{ "type": "All", "value": "115" }],
+    "Police": [
+      { "type": "All", "value": "112" },
+      { "type": "All", "value": "113" }
+    ],
+    "Dispatch": []
+  },
+  "ST": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SA": {
+    "Ambulance": [{ "type": "All", "value": "997" }],
+    "Fire": [{ "type": "All", "value": "998" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "SN": {
+    "Ambulance": [{ "type": "All", "value": "15" }],
+    "Fire": [{ "type": "All", "value": "18" }],
+    "Police": [{ "type": "All", "value": "17" }],
+    "Dispatch": []
+  },
+  "RS": {
+    "Ambulance": [{ "type": "All", "value": "194" }],
+    "Fire": [{ "type": "All", "value": "193" }],
+    "Police": [{ "type": "All", "value": "192" }],
+    "Dispatch": []
+  },
+  "SC": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "SL": {
+    "Ambulance": [{ "type": "All", "value": "999" }],
+    "Fire": [{ "type": "All", "value": "019" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "SG": {
+    "Ambulance": [{ "type": "All", "value": "995" }],
+    "Fire": [{ "type": "All", "value": "995" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "SX": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SK": {
+    "Ambulance": [{ "type": "All", "value": "155" }],
+    "Fire": [{ "type": "All", "value": "150" }],
+    "Police": [{ "type": "All", "value": "158" }],
+    "Dispatch": []
+  },
+  "SI": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "113" }],
+    "Dispatch": []
+  },
+  "SB": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "SO": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "ZA": {
+    "Ambulance": [{ "type": "All", "value": "10177" }],
+    "Fire": [{ "type": "All", "value": "10177" }],
+    "Police": [{ "type": "All", "value": "10111" }],
+    "Dispatch": [{ "type": "GSM", "value": "112" }]
+  },
+  "GS": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SS": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "ES": {
+    "Ambulance": [{ "type": "All", "value": "061" }],
+    "Fire": [{ "type": "All", "value": "080" }],
+    "Police": [{ "type": "All", "value": "091" }],
+    "Dispatch": []
+  },
+  "LK": {
+    "Ambulance": [{ "type": "All", "value": "110" }],
+    "Fire": [{ "type": "All", "value": "110" }],
+    "Police": [
+      { "type": "All", "value": "112" },
+      { "type": "All", "value": "119" }
+    ],
+    "Dispatch": []
+  },
+  "SD": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SR": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SJ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SZ": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "SE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "CH": {
+    "Ambulance": [{ "type": "All", "value": "144" }],
+    "Fire": [{ "type": "All", "value": "118" }],
+    "Police": [{ "type": "All", "value": "117" }],
+    "Dispatch": []
+  },
+  "SY": {
+    "Ambulance": [{ "type": "All", "value": "110" }],
+    "Fire": [{ "type": "All", "value": "113" }],
+    "Police": [{ "type": "All", "value": "112" }],
+    "Dispatch": []
+  },
+  "TW": {
+    "Ambulance": [{ "type": "All", "value": "119" }],
+    "Fire": [{ "type": "All", "value": "119" }],
+    "Police": [{ "type": "All", "value": "110" }],
+    "Dispatch": []
+  },
+  "TJ": {
+    "Ambulance": [{ "type": "All", "value": "03" }],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "TZ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "112" },
+      { "type": "All", "value": "999" }
+    ]
+  },
+  "TH": {
+    "Ambulance": [{ "type": "All", "value": "191" }],
+    "Fire": [{ "type": "All", "value": "199" }],
+    "Police": [{ "type": "All", "value": "191" }],
+    "Dispatch": []
+  },
+  "TL": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "TG": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [{ "type": "All", "value": "101" }],
+    "Dispatch": []
+  },
+  "TK": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "TO": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "TT": {
+    "Ambulance": [{ "type": "All", "value": "990" }],
+    "Fire": [{ "type": "All", "value": "990" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "TN": {
+    "Ambulance": [{ "type": "All", "value": "190" }],
+    "Fire": [{ "type": "All", "value": "198" }],
+    "Police": [{ "type": "All", "value": "197" }],
+    "Dispatch": []
+  },
+  "TR": {
+    "Ambulance": [{ "type": "All", "value": "112" }],
+    "Fire": [{ "type": "All", "value": "110" }],
+    "Police": [{ "type": "All", "value": "155" }],
+    "Dispatch": []
+  },
+  "TM": {
+    "Ambulance": [{ "type": "All", "value": "03" }],
+    "Fire": [{ "type": "All", "value": "01" }],
+    "Police": [{ "type": "All", "value": "02" }],
+    "Dispatch": []
+  },
+  "TC": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": " 911" }
+    ]
+  },
+  "TV": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "UG": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "GSM", "value": "112" },
+      { "type": "Fixed", "value": "999" }
+    ]
+  },
+  "UA": {
+    "Ambulance": [{ "type": "All", "value": "103" }],
+    "Fire": [{ "type": "All", "value": "101" }],
+    "Police": [{ "type": "All", "value": "102" }],
+    "Dispatch": []
+  },
+  "AE": {
+    "Ambulance": [{ "type": "All", "value": "998" }],
+    "Fire": [{ "type": "All", "value": "997" }],
+    "Police": [{ "type": "All", "value": "999" }],
+    "Dispatch": []
+  },
+  "GB": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "UM": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "US": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "UY": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [
+      { "type": "All", "value": "999" },
+      { "type": "All", "value": "911" }
+    ]
+  },
+  "UZ": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "03" }]
+  },
+  "VU": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "VE": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "171" }]
+  },
+  "VN": {
+    "Ambulance": [{ "type": "All", "value": "05" }],
+    "Fire": [{ "type": "All", "value": "08" }],
+    "Police": [{ "type": "All", "value": "03" }],
+    "Dispatch": []
+  },
+  "VG": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "VI": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "911" }]
+  },
+  "WF": { "Ambulance": [], "Fire": [], "Police": [], "Dispatch": [] },
+  "EH": {
+    "Ambulance": [{ "type": "All", "value": "150" }],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": []
+  },
+  "YE": {
+    "Ambulance": [{ "type": "All", "value": "191" }],
+    "Fire": [{ "type": "All", "value": "191" }],
+    "Police": [{ "type": "All", "value": "194" }],
+    "Dispatch": []
+  },
+  "ZM": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  },
+  "ZW": {
+    "Ambulance": [],
+    "Fire": [],
+    "Police": [],
+    "Dispatch": [{ "type": "All", "value": "999" }]
+  }
+}

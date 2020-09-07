@@ -1,0 +1,35 @@
+{
+  "name": "sos",
+  "version": "1.0.0",
+  "description": "Worldwide Emergency Services Numbers, with self-updater",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:examples": "node examples/"
+  },
+  "files": [
+    "data",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaydme/sos.git"
+  },
+  "keywords": [
+    "sos",
+    "emergency",
+    "numbers",
+    "worldwide"
+  ],
+  "author": "911AKA911 <its911aka911@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zaydme/sos/issues"
+  },
+  "homepage": "https://github.com/Zaydme/sos#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.3"
+  }
+}
