@@ -3,6 +3,8 @@
 [![Issues](https://img.shields.io/github/issues-raw/Zaydme/sos.svg?maxAge=25000&style=for-the-badge)](https://github.com/Zaydme/sos/issues)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 ![Stars](https://img.shields.io/github/stars/Zaydme/sos?style=for-the-badge)
+
+![logo](https://i.imgur.com/cT0QPzY.png)
 # SOS
 Worldwide Emergency Services Numbers, with self-updater.
 
